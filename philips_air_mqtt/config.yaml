@@ -25,4 +25,4 @@ schema:
   MQTT_PORT: "int"
   MQTT_USERNAME: "str"
   MQTT_PASSWORD: "str"
-image: null
+image: "ghcr.io/{arch}-philips_air_mqtt"
