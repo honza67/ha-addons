@@ -19,10 +19,10 @@ options:
   MQTT_USERNAME: "mqtt_user"
   MQTT_PASSWORD: "mqtt_pass"
 schema:
-  AIRCTRL_IP: "str"
-  AIRCTRL_PROTOCOL: "str"
-  MQTT_SERVER: "str"
-  MQTT_PORT: "int"
-  MQTT_USERNAME: "str"
-  MQTT_PASSWORD: "str"
-image: "ghcr.io/{arch}-philips_air_mqtt"
+  AIRCTRL_IP: str
+  AIRCTRL_PROTOCOL: str
+  MQTT_SERVER: str
+  MQTT_PORT: int
+  MQTT_USERNAME: str
+  MQTT_PASSWORD: str
+build: true
