@@ -16,8 +16,8 @@ options:
   AIRCTRL_PROTOCOL: "http"
   MQTT_SERVER: "192.168.1.97"
   MQTT_PORT: 1883
-  MQTT_USERNAME: "mqtt_user"
-  MQTT_PASSWORD: "mqtt_pass"
+  MQTT_USERNAME: "mqtt_nodered"
+  MQTT_PASSWORD: "nodered123456"
 schema:
   AIRCTRL_IP: "str"
   AIRCTRL_PROTOCOL: "str"
