@@ -1,5 +1,5 @@
 name: Philips Add-ons
 url: "https://github.com/honza67/ha-addons"
-maintainer: honza67 <jhk@seznam.cz>
+maintainer: 
 addons:
   - philips_air_mqtt
